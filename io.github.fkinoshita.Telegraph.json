@@ -1,5 +1,5 @@
 {
-    "app-id" : "io.github.fkinoshita.Telegraph",
+    "id" : "io.github.fkinoshita.Telegraph",
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "44",
     "sdk" : "org.gnome.Sdk",
@@ -30,8 +30,8 @@
                 {
                     "type" : "git",
                     "url": "https://github.com/fkinoshita/Telegraph.git",
-                    "tag": "0.1.2",
-                    "commit": "8fdd679c4a47030b3c886d565c9c7ef3223bde67"
+                    "tag": "0.1.3",
+                    "commit": "ada45c0d5acbe70cd0a62d9e23da46efd958b0d1"
                 }
             ]
         }
