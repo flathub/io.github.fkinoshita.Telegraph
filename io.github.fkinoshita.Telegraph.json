@@ -30,8 +30,8 @@
                 {
                     "type" : "git",
                     "url": "https://github.com/fkinoshita/Telegraph.git",
-                    "tag": "0.1.5",
-                    "commit": "3885f03e3c0263bc343034137f15f7a80558bbba"
+                    "tag": "0.1.6",
+                    "commit": "ebaf95086169300fde7f02893137c8f7e362ff03"
                 }
             ]
         }
