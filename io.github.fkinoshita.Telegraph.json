@@ -28,10 +28,9 @@
             "buildsystem" : "meson",
             "sources" : [
                 {
-                    "type" : "git",
-                    "url": "https://github.com/fkinoshita/Telegraph.git",
-                    "tag": "0.1.6",
-                    "commit": "ebaf95086169300fde7f02893137c8f7e362ff03"
+                    "type" : "archive",
+		    "url" : "https://github.com/fkinoshita/Telegraph/releases/download/v0.1.7/telegraph-0.1.7.tar.xz",
+		    "sha256" : "171b657d2988181d8f062b42a98d1c9801d2c6bb82e6f9313874eb515d7220e6"
                 }
             ]
         }
