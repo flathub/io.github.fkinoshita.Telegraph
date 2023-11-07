@@ -1,7 +1,7 @@
 {
     "id" : "io.github.fkinoshita.Telegraph",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "44",
+    "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
     "command" : "telegraph",
     "finish-args" : [
@@ -29,8 +29,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-		    "url" : "https://github.com/fkinoshita/Telegraph/releases/download/v0.1.7/telegraph-0.1.7.tar.xz",
-		    "sha256" : "171b657d2988181d8f062b42a98d1c9801d2c6bb82e6f9313874eb515d7220e6"
+		    "url" : "https://github.com/fkinoshita/Telegraph/releases/download/v0.1.8/telegraph-0.1.8.tar.xz",
+		    "sha256" : "5c5f3281d1c7efa8a21740dce7373ce68e73dbf007b23333858c36f7855f2af8"
                 }
             ]
         }
